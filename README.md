@@ -1,12 +1,12 @@
 # NodeJSchat
-version 0.0.0.5
+version 0.0.5
 Ilya Radu
 
-***RUN SERVER 
+*RUN SERVER 
 
 >>>node server.js 
 
 
 
-***Open http://localhost:3000/
+*Open http://localhost:3000/
 
